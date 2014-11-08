@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">数据传递</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	
+    <string name="btn1">全局变量传递</string>
+    <string name="btn2">剪切板传递</string>
+    <string name="btn3">意图传递</string>
+    <string name="btn4">使用静态变量传递</string>
+    <string name="btn5">得到返回值</string>
+</resources>
